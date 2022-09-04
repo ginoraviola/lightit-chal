@@ -1,3 +1,30 @@
+Evaluación técnica frontend
+
+La siguiente consigna apunta a evaluar las cualidades técnicas del candidato y la facilidad de llevar a cabo tareas utilizando alguna tecnología nueva.
+La tarea consiste en:
+1) Maquetar utilizando HTML y Tailwinds CSS el sitio. 2) Darle comportamiento utilizando Vue JS o React Js. 3) Entregar código funcionando.
+Consideraciones:
+- Donde dice “Logo” poner un logo/imagen a elección.
+- Guardar y salir es un dropdown con opciones: “Guardar y salir”, “Salir sin
+guardar”, “Guardar y continuar”. No es necesario que tengan.
+comportamiento.
+- Al hacer click en aberturas, equipamiento o terminaciones se debe abrir la
+barra lateral (como se puede ver en Imagen 2 y 3).
+- En la barra lateral se muestran categorías (Imagen 2) y al seleccionar una
+categoría se listan los productos de la misma (Imagen 3).
+- Los productos y categorías deben obtenerse desde:
+https://us-central1-prueba-front-280718.cloudfunctions.net/equipamiento https://us-central1-prueba-front-280718.cloudfunctions.net/aberturas https://us-central1-prueba-front-280718.cloudfunctions.net/terminaciones
+- Los botones de “Fijar”, “Borrar”, “+”, “-” y las flechitas, deben simplemente logguear en consola que fueron clickeados.
+
+
+### Solution
+
+<img width="1728" alt="image" src="https://user-images.githubusercontent.com/31039405/188321722-dcfc28cd-91c4-4e50-bd39-225e9755382d.png">
+<img width="816" alt="image" src="https://user-images.githubusercontent.com/31039405/188321750-b8efdd15-eb7a-4d8b-89af-f88e3e4eeaa1.png">
+<img width="421" alt="image" src="https://user-images.githubusercontent.com/31039405/188321778-a3887007-1e06-49ae-94b3-efe3f81025a9.png">
+![](https://user-images.githubusercontent.com/31039405/188322364-679c908c-0ee8-4194-8b99-c284a3bbddc9.gif)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
