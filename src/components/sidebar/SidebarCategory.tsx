@@ -18,6 +18,7 @@ const SidebarCategory = ({
             <div className="text-gray-700 p-3">{category.name}</div>
             <img
                 className="w-6 h-6 rotate-180"
+                alt=""
                 src={require('../../assets/activo.png')}
             />
         </div>

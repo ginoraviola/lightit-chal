@@ -31,6 +31,7 @@ const DropdownComponent = ({
             >
                 <img
                     className="w-5 h-5 -rotate-90"
+                    alt=""
                     src={require('../assets/activo.png')}
                 />
             </div>
@@ -44,12 +45,11 @@ const DropdownComponent = ({
                     <ul className="py-1 text-sm text-gray-700">
                         {options.map((option, index) => (
                             <li key={index} onClick={() => onSelect(option)}>
-                                <a
-                                    href="#"
-                                    className="block py-2 px-4 hover:bg-gray-100"
+                                <button
+                                    className="block py-2 px-4 hover:bg-gray-100 w-full"
                                 >
                                     {option}
-                                </a>
+                                </button>
                             </li>
                         ))}
                     </ul>

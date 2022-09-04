@@ -112,6 +112,7 @@ const SidebarDrawer = ({ selectedItem, onClose }: ISidebarMenuProps) => {
                 <img
                     className="w-6 h-6 rotate-90 md:rotate-0"
                     src={require('../../assets/activo.png')}
+                    alt=""
                 />
             </div>
         </div>

@@ -21,7 +21,8 @@ const SidebarTitle = ({
         >
             {isSubtitle && (
                 <img
-                    className="w-2 h-2 "
+                    className="w-2 h-2"
+                    alt=""
                     src={require('../../assets/activo.png')}
                 />
             )}

@@ -10,12 +10,14 @@ const ZoomComponent = ({ log }: IZoomComponentProps) => {
             <img
                 className="w-8 h-8 p-1 cursor-pointer"
                 src={require('../assets/+.png')}
+                alt=""
                 onClick={() => log('+ clicked')}
             />
             <hr />
             <img
                 className="w-8 h-8 p-1 cursor-pointer"
                 src={require('../assets/-.png')}
+                alt=""
                 onClick={() => log('- clicked')}
             />
         </div>
