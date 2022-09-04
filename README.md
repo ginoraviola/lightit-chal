@@ -1,4 +1,4 @@
-Evaluación técnica frontend
+## Evaluación técnica frontend
 
 La siguiente consigna apunta a evaluar las cualidades técnicas del candidato y la facilidad de llevar a cabo tareas utilizando alguna tecnología nueva.
 La tarea consiste en:
@@ -19,10 +19,10 @@ https://us-central1-prueba-front-280718.cloudfunctions.net/equipamiento https://
 
 ### Solution
 
+<img width="600" alt="image" src="https://github.com/ginoraviola/lightit-chal/blob/main/src/assets/demo.gif">
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/31039405/188321722-dcfc28cd-91c4-4e50-bd39-225e9755382d.png">
 <img width="816" alt="image" src="https://user-images.githubusercontent.com/31039405/188321750-b8efdd15-eb7a-4d8b-89af-f88e3e4eeaa1.png">
 <img width="421" alt="image" src="https://user-images.githubusercontent.com/31039405/188321778-a3887007-1e06-49ae-94b3-efe3f81025a9.png">
-![](https://github.com/ginoraviola/lightit-chal/blob/main/src/assets/demo.gif)
 
 
 # Getting Started with Create React App
